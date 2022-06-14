@@ -1,0 +1,66 @@
+Type,Certification,Full Name,Certifying Authority,Category
+Certification,CFA,Certified Financial Analyst,CFA Institute,Finance
+Certification,CMT,Certified Market Technician,CMT Association,Finance
+Certification,CFTe,Certified Financial Technician,IFTA,Finance
+Certification,FRM,Financial Risk Manager,GARP Institute,Finance
+Certification,FIRR,Financial Risk and Regulation,GARP Institute,Finance
+Certification,Climate Risk Certificate,-,GARP Institute,Finance
+Certification,ESG Certificate,-,CFA Institute,Finance
+Certification,Bloomberg Market Concepts,-,Bloomberg,Finance
+Certifcation,CAIA,Certified Alternative Investment Analyst,AIWMI,Finance
+Certification,CIRA,Certified Investment Research Analyst,AIWMI,Finance
+Certification,CCRA,Certified Credit Research Analyst,AIWMI,Finance
+Certification,AIF,Alternative Investment Fund Certificate,AIWMI,Finance
+Certification,Diploma in Corporate Finance,-,CISI,Finance
+Certification,Diploma in Capital Markets,-,CISI,Finance
+Certification,Senior Data Scientist,-,DASCA,Data Science
+Certification,Principal Data Scientist,-,DASCA,Data Science
+Certification,Junior Data Analyst,-,DASCA,Data Science
+Certification,Senior Data Analyst,-,DASCA,Data Science
+Masters ( Distance ),Economics,Master of Arts,IGNOU,Economics
+Masters ( Distance ),Quantitative Finance,Master of Science,SOAS,Finance
+Masters ( Distance ),Banking and Finance,Master of Business Adminstration,NMIMS,Finance
+Masters ( Online ),Data Science and Engineering,Master of Technology,BITS Pilani,Data Science
+PGD ( Online ),Business Analytics,Post Graduate Diploma,BITS Pilani,Data Science
+Masters ( Distance ),International Business Administration,Master of Science,SOAS,Business
+Masters,IITB - Washington University Executive MBA,Master of Business Administration,"IITB, Washington University",Business
+Masters,Mathematics with Application in Computer Science ( MACS ),Master of Science,IGNOU,Mathematics
+Masters,Mathematical Finance,Master of Science,York University,Mathematics
+Certification,Systems Engineering and Architecture,-,Linux Foundation,Computer Science
+Certification,Networking,-,Linux Foundation,Computer Science
+Certification,Linux Kernel Development,-,Linux Foundation,Computer Science
+Certification,Systems Administration,,Linux Foundation,Computer Science
+Masters ( Online ),Business Laws ,Master of Business Laws ,National Law School of India University ,Law 
+Certification ,Algorithmic Trading ,Certificate in Algorithmic Trading ,Python Quants ,Finance
+Certification ,Computational Finance ,Certificate in Computational Finance ,Python Quants ,Finance
+Certification ,Asset Management ,Certificate in Asset Management ,Python Quants ,Finance
+Certification ,Python for Finance ,Finpy ,Python Quants ,Finance
+Masters ( Online ),Financial Engineering ,Master of Science ,WorldQuant University ,Finance 
+Certificate ,Applied Data Science Module,-,WorldQuant University ,Data Science
+PGD ( Online ),Statistics,Post Graduate Diploma in Industrial Statistics ,IGNOU,Statistics 
+Masters ( Distance ),Entrepreneurship ,Master of Arts ,IGNOU,Business
+Masters ( Distance ),Library Science,Master of Library and Information Sciences,IGNOU,Library Science 
+Masters ( Distance ),Information Security ,Master of Science ,IGNOU,Computer Science
+PGPX ( Distance ),Management,Post Graduate Programme in Management for Executives ,UCLA ,Management
+MBA ( Hybrid ),Management ,Executive Master of Business Administration ,IIT Madras ,Management
+Masters ( Distance ),Software Systems ,Master of Technology ,BITS Pilani,Computer Science
+Masters ( Distance ),Software Engineering ,Master of Technology ,BITS Pilani,Computer Science
+Masters ( Distance ),Computing Systems and Infrastructure ,Master of Technology ,BITS Pilani,Computer Science
+Masters ( Online ),Data and Network Analytics ,Master of Science ,"HSE University, Coursera ",Computer Science
+Masters ( Online ),Finance ,Master of Finance ,"HSE University, Coursera ",Finance
+Specialization ,Investment Management with Python and Machine Learning ,- ,Coursera/Edhec Business School ,Finance 
+Specialization ,Financial Engineering and Risk Management ,- ,Coursera/Columbia University ,Finance 
+Specialization ,Genomic Data Science ,- ,Coursera/John Hopkins University ,Genomics 
+Course ,Probabilistic Graph Models ,- ,Coursera/Stanford University ,Computer Science
+Course ,Interest Rate Models ,- ,Coursera/EPFL  ,Finance 
+Specialization ,Data Structures and Algorithms ,- ,Coursera/HSE/UC-San Diego,Computer Science
+Specialization ,Applied Data Science with Python,-,Coursera/University of Michigan ,Computer Science
+Diploma ,Statistics,Postgraduate Diploma in Applied Statistics ,Coursera/ISI ,Statistics 
+Masters(Distance),Applied Finance ,Master of Science ,NMIMS,Finance 
+Masters(Online),Business Analytics,Master of Business Administration ,O.P. Jindal Global University ,Analytics 
+Masters(Online),"International Relations, Security and Strategy ",Master of Arts ,O.P. Jindal Global University ,International Relations 
+Masters(Online),Public Policy ,Master of Arts ,O.P. Jindal Global University ,Policy 
+Masters(Online),Quantitative Finance and Risk Management ,eMasters ,IIT Kanpur ,Finance 
+Masters(Online),High Performance Computing with Data Science ,Master of Science ,University of Edinburgh ,Computer Science
+Masters(Online),High Performance Computing ,Master of Science ,University of Edinburgh ,Computer Science
+Masters(Online),Analytics ,Masters in Analytics ,Georgia Institute of Technology ,Computer Science
